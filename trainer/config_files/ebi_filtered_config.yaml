@@ -1,6 +1,6 @@
 number: '0123456789'
 symbol: "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ €"
-lang_char: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+lang_char: 'ABCHDEẸGHIỊJKMNNGNyOỌPRSTUỤVWYZ'
 experiment_name: 'ebi_filtered'
 train_data: 'all_data'
 valid_data: 'all_data/ebi_val'
