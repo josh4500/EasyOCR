@@ -107,5 +107,3 @@ ENV/
 .vscode/
 .vs/
 .idea/
-
-trainer/all_data
