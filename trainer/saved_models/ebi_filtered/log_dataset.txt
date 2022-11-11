@@ -190,3 +190,243 @@ Total_batch_size: 32 = 32
 dataset_root:    all_data/ebi_val	 dataset: /
 sub-directory:	/.	 num samples: 100
 --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 100
+num total samples of ebi_train_filtered: 100 x 1.0 (total_data_usage_ratio) = 100
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 100
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ebi_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ebi_train_filtered
+sub-directory:	/ebi_train_filtered	 num samples: 96
+num total samples of ebi_train_filtered: 96 x 1.0 (total_data_usage_ratio) = 96
+num samples of ebi_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ebi_val	 dataset: /
+sub-directory:	/.	 num samples: 96
+--------------------------------------------------------------------------------
